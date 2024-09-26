@@ -48,12 +48,10 @@ pip install pandas matplotlib seaborn geopandas
 1. Clone the repository:
    ```bash
    git clone https://github.com/AFRA-33/Data_Analytics_Python_Project.git
-   cd restaurant-data-analysis
+   cd Data_Analytics_Python_Project
    ```
 
-2. Place the dataset file (e.g., `dataset.csv`) in the `data/` directory.
-
-3. Run the analysis scripts in your preferred environment (e.g., Jupyter Notebook, Python script).
+Run the analysis scripts in your preferred environment (e.g., Jupyter Notebook, Python script).
 
 ## Analysis Overview
 
